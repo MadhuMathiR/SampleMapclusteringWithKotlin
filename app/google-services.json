@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "309548195009",
+    "firebase_url": "https://mapclusteringkotlin.firebaseio.com",
+    "project_id": "mapclusteringkotlin",
+    "storage_bucket": "mapclusteringkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309548195009:android:ac92abed7c7f4f76",
+        "android_client_info": {
+          "package_name": "com.samplekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309548195009-g2sa2qh95dnitvu977b6368vp4oc9fv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9zvarRaYvTu0oq_g4RgIb-YxFCkqPY-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
